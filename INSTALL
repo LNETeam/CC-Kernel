@@ -1,0 +1,3 @@
+install = {}
+install.InstallHierarchy = {{"kernel.lua","kernel"}}
+return install
